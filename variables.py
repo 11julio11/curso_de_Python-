@@ -19,4 +19,15 @@ x, book = 100, "I Robot"
 
 print(x, book)# o asi 
 
+#convenciones/conventions
+book_name = "I Robot" #snake case
+bookName = "Digital fortress"#camel case
+BookName = "psicologia oscura"#pascal case
+
+print(book_name, bookName, BookName )
+
+PI = 3.1416
+
+
+
 

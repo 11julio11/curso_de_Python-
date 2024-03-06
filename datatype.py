@@ -41,7 +41,7 @@ False
 #dictorionies (permiten agrupar datos que pertenecen a una misma entidad)
 
 #para saber el tipo de dato
-print(type(
+print(type( 
     {#clave
     "name":"Ryan",#valor
     "lastname":"Ray",
