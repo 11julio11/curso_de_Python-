@@ -1,5 +1,4 @@
 #variables (es un nombre simbolico para un valor )
-from hasattr import hasattr
 
 
 name = "Fazt"

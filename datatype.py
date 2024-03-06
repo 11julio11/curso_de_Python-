@@ -42,7 +42,7 @@ False
 
 #para saber el tipo de dato
 print(type(
-    {    #clave
+    {#clave
     "name":"Ryan",#valor
     "lastname":"Ray",
     "nickname":"Fazt",
