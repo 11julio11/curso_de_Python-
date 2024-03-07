@@ -15,9 +15,9 @@ print(myStr.swapcase())#convierte las letras entre mayusculas y ninusculas
 print(myStr.capitalize()) #convierte las primeras letras de un titulo en mayusculas
 
                                     #🔽tambien se puede anexar los metodos ya expuestos para cambiar la sintaxis 
-print(myStr.replace('Hello', 'bye').upper()) #reemplaza el primer elemento por otro que se esta 
+print(myStr.replace('Hello', 'bye').upper()) #reemplaza el primer elemento por otro
 print(myStr.count('l'))# sirve para saber cuantos elementos hay en un codigo 
-          #⏩print(myStr.count(''))#tambien se pueden v¿buscar caracteres vacios
+          #⏩print(myStr.count(''))#tambien se pueden buscar caracteres vacios
 
 
            #🔽mostrara  el metodo booleans  (true/false) si caracter esta o no esta en el codigo
