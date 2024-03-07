@@ -14,7 +14,7 @@ print(myStr.lower())#convierte el texto en miniscula
 print(myStr.swapcase())#convierte las letras entre mayusculas y ninusculas
 print(myStr.capitalize()) #convierte las primeras letras de un titulo en mayusculas
 
-                                    #🔽tambien se puede anexar los metodos ya expuestos para combiar la sintaxis 
+                                    #🔽tambien se puede anexar los metodos ya expuestos para cambiar la sintaxis 
 print(myStr.replace('Hello', 'bye').upper()) #reemplaza el primer elemento por otro que se esta 
 print(myStr.count('l'))# sirve para saber cuantos elementos hay en un codigo 
           #⏩print(myStr.count(''))#tambien se pueden v¿buscar caracteres vacios
