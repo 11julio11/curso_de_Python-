@@ -1,4 +1,4 @@
-myStr = "Jesus David"#"Hellp World"
+myStr = "Jesus David"#"Hellp World" se puede colocar el nombre que desee
 
 #concadenacion de unificacion 
 print("My name is" + myStr)
