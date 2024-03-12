@@ -34,4 +34,35 @@ list(range(5, -5, -2))   # [5, 3, 1, -1, -3]
 #print(len(colors))
   
              #🔽 se utiliza para verificar si un valor está presente en una secuencia, como una cadena, una lista, una tupla o un diccionario
-print('green' in colors)
+#print('green' in colors)
+
+#con esto podemos alterar los datos de una lista
+#print(colors)
+#colors[1] = 'yellow'
+#print(colors)
+
+#print(dir(colors))
+
+#colors.append(('violet', 'yellow'))#agrega otro elemento con ayuda de una tupla
+
+      #extend sirve para extender  una lista con otra lista
+#colors.extend(('violet','yellow'))
+
+#esta funcion inserta un elemento en el lugar  indicado por el indice
+#colors.insert(1,'violet')
+
+#mide la longitud para lurgo agregar  o eliminar elementos
+#colors.pop()#elimina el ultimo elemento
+#colors.insert(len(colors), 'violet')
+
+#print(colors)
+
+#colors.pop(len(colors)-1)#elimina
+#remove  elimina un elemento especifico
+#colors.remove('blue')
+
+#colors.clear( )#limpia toda la lista
+
+colors.sort( )#ordena la lista de manera ascendente
+
+print(colors)
