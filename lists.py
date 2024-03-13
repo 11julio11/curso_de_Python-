@@ -1,5 +1,5 @@
 demo_list = [1, "helo", 1.34, True, [1, 2, 3]]
-colors = ['red', 'green', 'blue']
+colors = ['red', 'green', 'blue', 'red']
 
 #consultor
 numbers_list = list((1, 2, 3, 4))
@@ -63,6 +63,11 @@ list(range(5, -5, -2))   # [5, 3, 1, -1, -3]
 
 #colors.clear( )#limpia toda la lista
 
-colors.sort( )#ordena la lista de manera ascendente
+#colors.sort(reverse=True)#ordena la lista de manera ascendente y con reverse=True lo coloca a la inversa
+#print(colors)
 
-print(colors)
+#para obterner el index de un elemento
+#print(colors.index( 'red'))
+
+
+print(colors.count( 'red'))#cuenta cuantas veces aparece un elemento en la lista
