@@ -4,6 +4,9 @@
 # Solicita el nombre del usuario
 name = input("¿Cuál es tu nombre? ")
 
+#solicita el apellido
+lats_name = input("¿cual es tu apellido?")
+
 # Solicita la edad del usuario y la convierte en un entero
 age = int(input("¿Cuántos años tienes? "))
 
