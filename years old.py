@@ -24,7 +24,7 @@ print(f"Eres {gender}")
 
 # Agrega una pausa para hacer que el resultado sea más interesante
 import time
-time.sleep(1)
+time.sleep(1) 
 
 # Imprime una sorprendida declaración sobre la edad del usuario
 print("Wow, ¡tienes " + str(age) + " años?!")
