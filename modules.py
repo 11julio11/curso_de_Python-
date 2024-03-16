@@ -15,6 +15,25 @@ los modulos  son como una caja fuerte que nos permite agrupar funciones y variab
 # #muestra  la fecha actual del sistema
 
 #tambien la podemos importar de esta manera 
-from datetime import timedelta
+# from datetime import timedelta
 
-print(timedelta(minutes=700))
+# print(timedelta(minutes=700))
+
+
+# importamos el modulo que queremos utilizar 
+#import fmath
+
+#fmath.substract(1,2)
+
+#tambien lo podemos importar de esta manera 
+
+# from fmath import add, substract
+
+# substract(1,2)
+# add(1,2)
+
+from colorama import Fore, Style, init
+init(convert=True)
+print(Fore.YELLOW + "hello world")
+print(Fore.BLUE+ "I am learning Python")
+print(Fore.RED+"This is Red Text")
