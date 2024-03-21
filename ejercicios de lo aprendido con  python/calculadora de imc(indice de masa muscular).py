@@ -9,4 +9,5 @@ altura = float(input("ingrese  su altura en metros: "))
 
 IMC = peso/(altura * altura)
 
-print("su imc es: ", IMC)
+print("su imc es: ", IMC )
+
