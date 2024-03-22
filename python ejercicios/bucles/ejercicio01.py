@@ -10,5 +10,5 @@ cantidad = int(input("intruce la cantidad de veces que se repite la palabra: "))
 
  #imprimimos por pantalla la palabra introducida
 for i in range(cantidad):
-    print("Palabras repetidas:", palabra)
+    print("Palabras repetidas:", palabra * cantidad)
 
